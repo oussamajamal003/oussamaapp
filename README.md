@@ -11,6 +11,9 @@ Currently, two official plugins are available:
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
+ ##first i add a component splash scream then i make a login tailwind design with signup with a notfication that appear when login and logout also with a remeber me sweetalert to keep login or logout then save in seessiom
+then i add a two student and home components in mainlayout then in navabr in mainlayout a button that add student in a table in student component 
+
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
